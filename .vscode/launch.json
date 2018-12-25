@@ -1,0 +1,67 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloSelenium",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.selenium.test.HelloSelenium",
+            "args": "",
+            "projectName": "com.selenium.test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloSelenium",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "HelloSelenium",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.selenium.test.test",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.selenium.test.App",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloSelenium",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.itsf.HelloSelenium",
+            "args": "",
+            "projectName": "com.itsf.jdbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.itsf.App",
+            "args": "",
+            "projectName": "com.itsf.jdbc"
+        }
+    ]
+}

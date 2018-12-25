@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "com.itsf.jdbc",
+                "projectName": "com.itsf.jdbc",
+                "workingDirectory": "/Users/wupinglan/Desktop/git/javacode/com.itsf.jdbc",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "com.itsf.jdbc",
+                "projectName": "com.itsf.jdbc",
+                "workingDirectory": "/Users/wupinglan/Desktop/git/javacode/com.itsf.jdbc",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
